@@ -1,4 +1,4 @@
-import curses
+import 
 from curses import wrapper
 import queue
 import time 
